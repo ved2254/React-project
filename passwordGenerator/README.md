@@ -1,3 +1,31 @@
+React Projects Collection
+
+This repository contains multiple mini-projects built using React and Vite. Each project is designed to practice React fundamentals, component-based architecture, and integration with modern tools like Vite and ESLint.
+
+Projects Included
+
+bgChanger – A small app to dynamically change background colors.
+
+counter – A basic counter app to practice React state management.
+
+currencyConvertor – A simple currency converter with live calculations.
+
+passwordGenerator – A utility app to generate strong passwords.
+
+Features
+
+React + Vite Setup: Minimal and optimized setup with fast HMR (Hot Module Replacement).
+
+ESLint Integration: Ensures clean and consistent code.
+
+Component-Based Architecture: Each app demonstrates reusable React components.
+
+Modern Development Practices: Using hooks, state management, and event handling.
+
+Getting Started
+
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
